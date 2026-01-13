@@ -1,0 +1,13 @@
+Credit Risk Model Evaluation Report
+========================================
+
+Accuracy: 0.7998
+
+              precision    recall  f1-score   support
+
+           0       0.81      0.97      0.88      4673
+           1       0.66      0.20      0.30      1327
+
+    accuracy                           0.80      6000
+   macro avg       0.73      0.58      0.59      6000
+weighted avg       0.78      0.80      0.75      6000
